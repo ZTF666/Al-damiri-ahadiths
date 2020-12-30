@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ZTF666/Al-damiri-ahadiths/issues"
   },
-  "homepage": "https://github.com/ZTF666/Al-damiri-ahadiths#readme"
+  "homepage": "https://github.com/ZTF666/Al-damiri-ahadiths#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
