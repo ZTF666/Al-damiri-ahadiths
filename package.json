@@ -1,0 +1,19 @@
+{
+  "name": "al-damiri-hadiths",
+  "version": "1.0.0",
+  "description": "al damiri islamic ahadiths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZTF666/Al-damiri-ahadiths.git"
+  },
+  "author": "Nabil ZTF ElAtif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZTF666/Al-damiri-ahadiths/issues"
+  },
+  "homepage": "https://github.com/ZTF666/Al-damiri-ahadiths#readme"
+}
