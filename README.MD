@@ -2,6 +2,14 @@
 
 A simple api that provides access to a collection of islamic ahadiths by AL DAMIRI | الدميري -(over 3000 hadith)- and serves them in a JSON array format for easy use .
 
+# API end point
+
+<div align="center">
+
+<h1> https://al-damiri-hadiths-api.herokuapp.com/hadith </h1>
+
+</div>
+
 ## example
 
 <div align="center">
