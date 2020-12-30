@@ -7,7 +7,7 @@ This was made using :
 <div align="center">
 <img src="https://a.slack-edge.com/80588/img/api/hosting_heroku.png" 
 alt="heroku"
-width="40"
+width="50"
 height="60"
 >
 
