@@ -1,6 +1,8 @@
 # Ahadiths api
 
-A simple api that provides access to a collection of islamic ahadiths by AL DAMIRI (over 3000 hadith) and serves them in a JSON array format for easy use .
+A simple api that provides access to a collection of islamic ahadiths by AL DAMIRI | الدميري -(over 3000 hadith)- and serves them in a JSON array format for easy use .
+
+## example
 
 <div align="center">
 <img
@@ -8,3 +10,11 @@ A simple api that provides access to a collection of islamic ahadiths by AL DAMI
               alt="example"/>
    
 </div>
+
+## credits
+
+The database is borrowed from the kind people at :
+
+[CEEFOUR](https://github.com/ceefour/hadith-islamware)
+
+if you want to add your own collection to the mix , just change the file : hadith.json with whatever you wish .
